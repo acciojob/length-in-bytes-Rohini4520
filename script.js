@@ -1,7 +1,7 @@
 const byteSize = (str) => {
   // write your code here
-	const bob = new bob(str);
-	return bob;
+	const bob = new bob([str]);
+	return bob.size;
 };
 
 // Do not change the code below
